@@ -13,7 +13,7 @@ function About() {
         </p>
         <div className="flex pb-8">
         <div className="flex flex-col mr-8">
-        <img src="public/bxs_cube.png" alt="" className="h-16 w-16"/>
+        <img src="/bxs_cube.png" alt="" className="h-16 w-16"/>
             <p className="font-bold text-2xl text-white w-64">Technical</p>
             <p className="w-64 text-white">
               Experience the latest advancements in technology through
@@ -21,7 +21,7 @@ function About() {
             </p>
             </div>
             <div className="flex flex-col">
-          <img src="public/bxs_cube.png" alt="" className="h-16 w-16" />
+          <img src="/bxs_cube.png" alt="" className="h-16 w-16" />
             <p className="font-bold text-2xl text-white w-64">Cultural</p>
             <p className="w-64 text-white">
               Immerse yourself in the vibrany cultural performances, arth
