@@ -35,7 +35,7 @@ function App() {
         <div><Button /></div>
             </div>
         <div>
-          <img src="public/TCF23.png" alt="" />
+          <img src="./public/TCF23.png" alt="" />
         </div>
         </div>
       </div>
