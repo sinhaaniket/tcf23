@@ -18,11 +18,11 @@ function Cnm() {
                 your time at Corona and Melange.
               </p>
             </div>
-            <img src="/public/CnM23.png" alt="" className="md:w-max w-1/3 pt-20 h-1/3" />
+            <img src="public/CnM23.png" alt="" className="md:w-max w-1/3 pt-20 h-1/3" />
           </div>
           <div className="flex">
             <div className="flex flex-col justify-center items-center mt-10 pr-10 w-1/3">
-              <img src="/public/bxs_cube.png" alt="" className="h-16 w-16" />
+              <img src="public/bxs_cube.png" alt="" className="h-16 w-16" />
               <div className="text-xl md:text-5xl font-bold text-white text-center">
                 Top-Notch Venues and Facilities
               </div>
@@ -33,7 +33,7 @@ function Cnm() {
               </p>
             </div>
             <div className="flex flex-col justify-center items-center pr-10 w-1/3">
-              <img src="/public/bxs_cube.png" alt="" className="h-16 w-16" />
+              <img src="public/bxs_cube.png" alt="" className="h-16 w-16" />
               <p className="md:text-5xl text-xl font-bold text-white text-center">
                 Comfortable Accommodations
               </p>
@@ -43,7 +43,7 @@ function Cnm() {
               </p>
             </div>
             <div className="flex flex-col justify-center items-center w-1/3">
-              <img src="/public/bxs_cube.png" alt="" className="h-16 w-16" />
+              <img src="public/bxs_cube.png" alt="" className="h-16 w-16" />
               <p className="md:text-5xl text-xl font-bold text-white text-center">
                 Delicious Food and Refreshments
               </p>
