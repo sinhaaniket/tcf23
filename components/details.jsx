@@ -32,7 +32,7 @@ talks by industry experts. Don’t miss this opportunity to learn from the best.
         </div>
       </div> */}
 
-      <div className="bg-gradient-to-br from-violet-950 to-fuchsia-950 flex md:flex-row flex-col justify-center md:w-screen h-fit w-auto py-12">
+      <div className="bg-gradient-to-br from-violet-950 to-fuchsia-950 flex md:flex-row flex-col justify-center md:w-screen h-fit w-auto py-12 overflow-hidden">
             <div className="md:flex">
                <div className="bg-white h-56 w-72 mx-12 md:h-auto md:w-2/5"></div>
                <div className="md:flex md:flex-col">
