@@ -13,7 +13,7 @@ import Cr from "../components/cr"
 function App() {
   return (
     <>
-      {/* <div className="bg-[url('/public/BG23.png')] bg-cover h-screen">
+      <div className="bg-[url('/public/BG23.png')] bg-cover h-screen">
         <Nav />
 
   
@@ -41,17 +41,17 @@ function App() {
       </div>
       <div>
 <About/>
-      </div> */}
+      </div>
       <Details/>
       <Expr/>
-      {/* <Cnm/> */}
-      {/* <Previous/> */}
-      {/* <Last/> */}
-      {/* <Foter/> */}
-      {/* <div className="bg-slate-400 h-0.5 w-full"> */}
+      <Cnm/>
+      <Previous/>
+      <Last/>
+      <Foter/>
+      <div className="bg-slate-400 h-0.5 w-full">
     
-      {/* </div> */}
-      {/* <Cr/> */}
+      </div>
+      <Cr/>
     </>
   );
 }
