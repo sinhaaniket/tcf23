@@ -43,7 +43,7 @@ function App() {
 <About/>
       </div> */}
       <Details/>
-      {/* <Expr/> */}
+      <Expr/>
       {/* <Cnm/> */}
       {/* <Previous/> */}
       {/* <Last/> */}
