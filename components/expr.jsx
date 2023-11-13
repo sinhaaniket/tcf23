@@ -4,7 +4,7 @@ import Button from "./button";
 function Expr() {
   return (
     <>
-      <div className="bg-gradient-to-br from-violet-900 to-fuchsia-900 pl-16 pt-32 pr-14 flex flex-col items-center md:w-screen w-screen">
+      <div className="bg-gradient-to-br from-violet-900 to-fuchsia-900 pl-16 pt-32 pr-14 flex flex-col items-center md:w-screen w-full">
         <div className="text-5xl text-white font-bold w-max h-36">
           Experience The Events
         </div>

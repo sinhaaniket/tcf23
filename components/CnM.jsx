@@ -3,7 +3,7 @@ import React from "react";
 function Cnm() {
   return (
     <>
-      <div className="bg-gradient-to-br from-violet-600 to-fuchsia-600 pl-16 pr-14 md:block flex flex-col md:w-screen w-screen">
+      <div className="bg-gradient-to-br from-violet-600 to-fuchsia-600 pl-16 pr-14 md:block flex flex-col md:w-screen w-full">
         <div className="flex flex-col">
           <div className="flex">
             <div className="flex flex-col w-2/3 pt-32">

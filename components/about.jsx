@@ -4,7 +4,7 @@ import Button from "./button";
 function About() {
   return (
     <>
-    <div className="md:flex-row justify-center items-center bg-gradient-to-br from-fuchsia-950 to-fuchsia-900 flex md:w-screen flex-col w-screen">
+    <div className="md:flex-row justify-center items-center bg-gradient-to-br from-fuchsia-950 to-fuchsia-900 flex md:w-screen flex-col w-full">
       <div className="md:flex md:flex-col md:pl-16 md:pt-32 md:h-screen md:w-2/3 ">
         <p className="text-white text-2xl font-normal h-24 text-center md:text-left">Experience</p>
         <p className="font-bold text-7xl text-white h-36 w-max">LOREM IPSUM</p>

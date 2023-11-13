@@ -13,11 +13,11 @@ import Cr from "../components/cr"
 function App() {
   return (
     <>
-      <div className="bg-[url('/public/BG23.png')] bg-cover h-screen w-screen">
+      <div className="bg-[url('/BG23.png')] bg-cover h-screen md:w-screen w-full">
         <Nav />
 
   
-    <div className="flex justify-between w-screen">
+    <div className="flex justify-between md:w-screen">
             <div className="flex flex-col place-content-around pl-16 mt-36 h-80 w-max">
               <p className="md:font-bold md:text-7xl font-bold text-3xl text-white">
                 Experience the Fusion

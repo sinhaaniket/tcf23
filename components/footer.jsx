@@ -2,7 +2,7 @@ import React from "react";
 
 function Foter(){
 return(<>
-    <div className="flex bg-fuchsia-200 md:justify-between flex-col md:flex-row justify-center items-center w-screen">
+    <div className="flex bg-fuchsia-200 md:justify-between flex-col md:flex-row justify-center items-center w-full">
         <div className="flex flex-col">
             <img src="/Logo.png" alt="" className="w-68 h-64"/>
             <div className="ml-36">Address:</div>
