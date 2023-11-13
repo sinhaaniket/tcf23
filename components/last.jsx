@@ -2,7 +2,7 @@ import React from "react";
 
 function Last(){
     return(<>
-    <div className="flex flex-col justify-center items-center bg-fuchsia-800">
+    <div className="flex flex-col justify-center items-center bg-fuchsia-800 w-screen">
         <div className="h-1/3 flex justify-center py-16">
             <img src="/star.png" alt="" srcset="" className="w-12 h-12"/>
             <img src="/star.png" alt="" srcset="" className="w-12 h-12"/>
